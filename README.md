@@ -20,6 +20,7 @@ https://fizz.red/arg/ led to a page that stated
 
 It is also important to note that Fizz has another website, https://rizz.zone/ . It is hardcoded to reveal itself at Febuary 17 2023 00:00:00. Source code is availible in this file.
 
-On Wednesday 15th of Febuary 2023, at 16:39 (GMT), @Nukecumber#7829 decoded it as "Wow! You decoded the message! The flag is: flag{b4s364lls_4r3_fun}"
+On Wednesday 15th of Febuary 2023, at 16:39 (GMT), @Nukecumber#7829 decoded it as
+	"Wow! You decoded the message! The flag is: flag{b4s364lls_4r3_fun}"
 
 As this is being written, no new info has been released. Have fun and solve the Rosecord ARG!
