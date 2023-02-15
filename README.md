@@ -14,7 +14,7 @@ https://fizz.red/arg/ led to a page that stated
 	 You found the next step. So here's the documentation for my encryption algorithm. oh yeah, it's not so easy to behold.
 	 
 	 In the code's cryptic verse, A key and message must immerse. Sixty-nine four twenty doth the key hold, A number so enigmatic, so bold. Each character in the message, a clue, A code to decipher, through and through. For each i, a character must be found, A key char, to which it's bound. To each character, a new life is breathed, A cipher formed, so carefully weaved. For the ord of each char shall be raised, By the key_char, so aptly phased.The message now a mystery, a tale to tell, A story encrypted, for those who delve. With the key so obscure, the code so neat, This encryption is surely hard to beat.
-n}xrs@83{o{}y0bk8~XK;}ndX|TQ
+	n}xrs@83{o{}y0bk8~XK;}ndX|TQ
 
 	 If you need another hint, it shall be released on this page. 16th of feb."
 
